@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ahmet Akyyev, a full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on Beyan[http://beyan.wiki/)  
+- 🔭 I’m currently working on Beyan[https://beyan.wiki/)  
   
 
 - 🌱 I’m currently learning Ethical Hacking  
